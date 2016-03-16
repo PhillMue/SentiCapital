@@ -52,9 +52,9 @@ public class HeadItemOneActivity extends MaterialNavHeadItemActivity {
 
         // create Head Item
         // use bitmap and make a circle photo
-        final Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.yourAvatar);
+        final Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.shopping_basket);
         final RoundedCornersDrawable drawableAppIcon = new RoundedCornersDrawable(getResources(), bitmap);
-        MaterialHeadItem headItem = new MaterialHeadItem(this, "My HeadItem", "My Subtitle", drawableAppIcon, R.drawable.yourBackground, menu);
+        MaterialHeadItem headItem = new MaterialHeadItem(this, "My HeadItem", "My Subtitle", drawableAppIcon, R.drawable.shopping_basket, menu);
         this.addHeadItem(headItem);
 
         // load menu
