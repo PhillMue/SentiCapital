@@ -7,8 +7,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.takeoffandroid.appintroanimation.R;
-
 
 /**
  * Created by mue on 3/16/16.

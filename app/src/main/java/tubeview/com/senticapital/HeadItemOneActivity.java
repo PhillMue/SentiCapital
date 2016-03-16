@@ -5,8 +5,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 
-import com.takeoffandroid.appintroanimation.R;
-
 import de.madcyph3r.materialnavigationdrawer.MaterialNavigationDrawer;
 import de.madcyph3r.materialnavigationdrawer.activity.MaterialNavHeadItemActivity;
 import de.madcyph3r.materialnavigationdrawer.head.MaterialHeadItem;
